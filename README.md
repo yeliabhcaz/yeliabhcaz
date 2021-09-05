@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yeliabhcaz
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Pandas, Scikitlearn, and Javascript
-- 💞️ I’m looking to collaborate on Documentation updating for Python or other Data Science resources
-- 📫 How to reach me zachary_bailey6@icloud.com
+- 👀 I’m interested in Data Science and Web Development
+- 🌱 I’m currently learning Python, javascript, and shopify liquid
+- 💞️ I’m looking to collaborate on Sports Analysis, specifically NFL and NBA
+- 📫 How to reach me zach@zachbailey.dev
 
 <!---
 yeliabhcaz/yeliabhcaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
