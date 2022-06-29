@@ -20,7 +20,7 @@ const conversionHunters = {
         cms: {
             ["Shopify", "WordPress/WooCommerce", "Webflow"]
         },
-    currentFocus: "Working with eCommerce brands to grow their online presence and take their company to the next level",
+    currentFocus: "Working with eCommerce brands to grow their online presence and take their company to the next level"
 };
 ```
 
