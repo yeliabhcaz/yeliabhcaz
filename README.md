@@ -1,8 +1,8 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello, I'm Zach Bailey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
-<p>Founder of <a href='conversionhunters.dev'>Conversion Hunters</a> </p>
+<h4>Founder of <a href='conversionhunters.dev'>Conversion Hunters</a> </h4>
 
-<p style='font-size: 18px;'>📫 Interested in working with us? </p>
+<h4>📫 Interested in working with us? </h4>
 
 <p> You can schedule a meeting here: </p>
 
