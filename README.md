@@ -7,7 +7,8 @@
 
 ```javascript
 const conversionHunters = {
-    services: ["Shopify", "WooCommerce", "WebFlow", "TikTok Ads", "Google Ads and AdWords", "SEO", "CRO/AOV/LTV","Email Marketing", "Copywriting"],
+    services: ["Shopify", "WooCommerce", "WebFlow", "TikTok Ads", "Google Ads and AdWords",
+                "SEO", "CRO/AOV/LTV","Email Marketing", "Copywriting"],
     askMeAbout: ["web dev", "eCommerce", "sports analysis", "backpacking"],
     technologies: {
         frontEnd: {
