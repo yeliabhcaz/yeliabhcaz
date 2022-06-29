@@ -2,8 +2,8 @@
 
 <h4>Founder of <a href='conversionhunters.dev'>Conversion Hunters</a> </h4>
 
-### <iframe src="https://giphy.com/embed/Ie7Wkvuhu1hp0rZZ3Q" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/search-detective-find-Ie7Wkvuhu1hp0rZZ3Q">via GIPHY</a></p>
- A little more about us...  
+
+<img src='https://giphy.com/stickers/search-detective-find-Ie7Wkvuhu1hp0rZZ3Q' width='50'> A little more about us...  
 
 <h4>📫 Interested in working with us? </h4>
 
