@@ -17,6 +17,9 @@ const conversionHunters = {
         dataAnalysis: {
             python: ["Pandas","Numpy","SciKitLearn","Selenium"]
         },
+        cms: {
+            ["Shopify", "WordPress/WooCommerce", "Webflow"]
+        },
     currentFocus: "Working with eCommerce brands to grow their online presence and take their company to the next level",
 };
 ```
