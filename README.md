@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello, I'm Zach! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
-<h4>Founder of <a href='conversionhunters.dev'>Conversion Hunters</a> </h4>
+<h4>Founder at <a href='conversionhunters.dev'>Conversion Hunters</a> </h4>
 
 
 <h4>🔎 A little more about us... </h4>
