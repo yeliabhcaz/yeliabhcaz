@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yeliabhcaz
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Python, javascript, and shopify liquid
-- 💞️ I’m looking to collaborate on Sports Analysis, specifically NFL and NBA
-- 📫 How to reach me zach@zachbailey.dev
+- 👋 Hi, I’m Zach
+- 👀 I’m interested in Web Development and helping eCommerce stores take their brand to new heights
+- 🌱 I’m currently learning React, Node.js, and SEO
+- 💞️ I’m looking to collaborate on Sports Analysis or Productivity Apps
+- 📫 How to reach me zach@conversionhunters.dev
 
 <!---
 yeliabhcaz/yeliabhcaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
