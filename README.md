@@ -3,7 +3,7 @@
 <h4>Founder at <a href='conversionhunters.dev'>Conversion Hunters</a> </h4>
 
 
-<h4>🔎 A little more about us... </h4>
+<h4>🔎 About us... </h4>
 
 ```javascript
 const conversionHunters = {
