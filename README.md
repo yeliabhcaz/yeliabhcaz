@@ -24,7 +24,7 @@ const zachBailey = {
 
 <h4>📫 Interested in working with me? </h4>
 
-<p> Schedule a meeting here: </p>
+<p> Let's talk.. </p>
 
 <a href="https://calendly.com/zach_bailey/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
