@@ -4,8 +4,6 @@
 
 ```javascript
 const zachBailey = {
-    services: ["Shopify", "WooCommerce", "WebFlow", "TikTok Ads", "Google Ads and AdWords",
-                "SEO", "CRO/AOV/LTV","Email Marketing", "Copywriting"],
     askMeAbout: ["react dev", "solidity", "sports analysis", "backpacking"],
     technologies: {
         webDev: {
