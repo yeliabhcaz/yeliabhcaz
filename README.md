@@ -13,7 +13,7 @@ const zachBailey = {
             tools: ["Google Optimize", "Heat Mapping", "Google Analytics"]
         },
         dataAnalysis: {
-            code: ["Pandas","Numpy","SciKitLearn","Selenium","SQL"]
+            code: ["Pandas","Numpy","SciKitLearn","Selenium","SQL"],
             tools: ["Excel", "Tableau"]
         },
         blockchain: {
